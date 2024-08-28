@@ -1,0 +1,1 @@
+Le projet est organisé en plusieurs phases, chacune correspondant à une étape clé dans la conception et la mise en œuvre de la base de données
