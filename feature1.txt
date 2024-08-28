@@ -1,1 +1,4 @@
 ABC Corporation est une entreprise spécialisée dans l'importation et l'exportation de produits.
+
+
+Le projet consiste à analyser les fichiers Excel existants, identifier les entités, attributs et relations, et concevoir une base de données relationnelle complète.
